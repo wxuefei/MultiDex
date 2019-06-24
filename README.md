@@ -1,2 +1,2 @@
 # MultiDex
-A sample project for multi dex loads on android.
+A sample project for multi dex loading on android.
